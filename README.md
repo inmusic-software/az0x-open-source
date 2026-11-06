@@ -12,9 +12,14 @@ If you have any queries in line with the open source licenses for these packages
 
 ### MPC G1 Devices
 
+This release applies to MPC X, MPC X Special Edition, MPC Live, MPC Live II,
+MPC One, MPC One+, MPC Key 37, MPC Key 61, and Force.
+
 - [v3.10](https://github.com/inmusic-software/az0x-open-source/tree/mpc-g1/3.10)
 
 ### MPC G2 Devices
+
+This release applies to MPC XL, MPC Live III, MPC One G2, and MPC Key 37 G2.
 
 - [v3.10](https://github.com/inmusic-software/az0x-open-source/tree/mpc-g2/3.10)
 
