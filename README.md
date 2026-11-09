@@ -26,3 +26,20 @@ This release applies to MPC XL, MPC Live III, MPC One G2, and MPC Key 37 G2.
 ### MPC Sample
 
 - [v1.3.0](https://github.com/inmusic-software/az0x-open-source/tree/mpc-sample/1.3.0)
+
+
+## Engine OS
+
+### Engine OS G1 Devices
+
+This release applies to **Denon DJ** Prime 2, Prime 4, Prime 4+, Prime Go,
+Prime Go+, SC5000, SC5000M, SC6000, SC6000M, SC Live 2, and SC Live 4, and
+**Numark** Mixstream Pro, Mixstream Pro +, and Mixstream Pro Go.
+
+- [v5.3](https://github.com/inmusic-software/az0x-open-source/tree/engine-os-g1/5.3)
+
+### Engine OS G2 Devices
+
+This release applies to **Denon DJ** Prime 4 G2 and **Rane** System One.
+
+- [v5.3](https://github.com/inmusic-software/az0x-open-source/tree/engine-os-g2/5.3)
