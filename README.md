@@ -25,6 +25,7 @@ This release applies to MPC XL, MPC Live III, MPC One G2, and MPC Key 37 G2.
 
 ### MPC Sample
 
+- [v1.4.0](https://github.com/inmusic-software/az0x-open-source/tree/mpc-sample/1.4.0)
 - [v1.3.0](https://github.com/inmusic-software/az0x-open-source/tree/mpc-sample/1.3.0)
 
 
